@@ -8,6 +8,6 @@
 
 
 ### Step 1: Check if python is install
-### Step 2: https://github.com/aeliamomo/claude_testG/tree/main
+### Step 2: Go to https://github.com/aeliamomo/claude_testG/tree/main and install the rest. 
 
 
